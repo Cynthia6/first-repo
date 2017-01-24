@@ -1,3 +1,7 @@
 i am empty text file
 updated
+<<<<<<< HEAD
 lala
+=======
+updated from the site
+>>>>>>> 38dbddd1036584048fe3ce418fdddcc2df3fe47b
